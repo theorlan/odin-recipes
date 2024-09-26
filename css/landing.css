@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(252, 248, 246);
+  margin: 0px auto;
+}
+
+.title{
+  width: 100%;
+  margin: auto;
+  background-color: rgb(244, 237, 235);
+  color: rgb(243, 68, 30);
+  padding: 5px 45px;
+  
+}
+
+.recipes {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.recipe1, .recipe2, .recipe3{
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+a{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+a:hover{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+
+img{
+  display: inline-block;
+  margin-right: 30px;
+}
+
