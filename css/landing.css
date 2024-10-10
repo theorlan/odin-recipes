@@ -8,6 +8,7 @@ body{
   margin: auto;
   background-color: rgb(244, 237, 235);
   color: rgb(243, 68, 30);
+  font-family: Arial, Verdana, Helvetica, sans-serif;
   padding: 5px 45px;
   
 }
@@ -28,6 +29,7 @@ a{
   color: black;
   font-size: 25px;
   font-weight: bold;
+  font-family: Arial, Verdana, Helvetica, sans-serif;
   margin-left: 10px;
 }
 
